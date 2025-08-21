@@ -1,4 +1,4 @@
-package RATED1000;
+package rated1000;
 
 import java.util.Scanner;
 
